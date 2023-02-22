@@ -11,7 +11,7 @@ $ npm install
 Una vez instalados todos los paquetes ejecutar si es necesario
 
 ```bash
-# Compilar estilos CSS y JS para uso de la utilidad Graphiql 
+# Compilar estilos CSS y JS para uso de la aplicacion 
 $ npm run build
 ```
 ## Running the app
